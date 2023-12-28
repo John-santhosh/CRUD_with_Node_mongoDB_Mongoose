@@ -1,5 +1,7 @@
 # About DATABASE.
 
+# find .env file in 07 account
+
 ## about SQL
 
 - traditional databases are built in are built in a relational structure.
